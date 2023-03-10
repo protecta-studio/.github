@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-The digital landscapes has become too complex. Concurrently, central digital abstractions (data lake, date mesh, digital twin, etc) being driven by marketing have become too vague leading to both confusion in designing systems as well as breaking interoperability.
+The digital landscapes that we need to design to build solutions for various application domains have become more and more complex. Concurrently, central digital abstractions (data lake, date mesh, digital twin, etc) being driven by marketing have become lacking in detail and even sloppy at times, leading to both confusion in designing systems around them as well as breaking interoperability across different solutions.
 
-In addition, the software-first, centralized "platform" approach has resulted in a fragmented internet centralized around a couple of tightly controlled, surveillance driven walled-gardens (plantations? [^1]).
+This issue forms the backdrop in which *Protecta Studio* was born. 
 
-These two issues form the backdrop in which **Protecta Studio** was born. 
+We believe there is a missing link in the overarching workflow of how technology is ideated, designed, implemented, and maintained, especially when considering the problem on the scale of a multitude of technology providers working in similar time windows in a shared technical universe like the internet where we can all benefit form interoperability, low-barrier to entry.
 
-We approach the problem of building complex digital lanscapes as a three-step process, in specific 
+In addition, the centralized "platform" approach adopted by big tech. has resulted in a fragmented internet centralized around a couple of closed and tightly controlled, surveillance driven walled-gardens (some going so far as calling them plantations [^1]).
+
 
 software precise artifactualizations and architectures. Our work falls on the intersection of R&D and design (too R&D for the design people; too design for the R&D people). 
 
